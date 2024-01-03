@@ -1,4 +1,6 @@
 # Plastic-Free Rivers Hackathon - Team GENNEX
+<img width="618" alt="image" src="https://github.com/Yashsharma009/plastic--waste/assets/116294789/d368a960-79a6-4c41-86c5-87bd96cebd6b">
+Got 14th rank all over world -TEAM GENNEX
 
 ## Project Overview
 
