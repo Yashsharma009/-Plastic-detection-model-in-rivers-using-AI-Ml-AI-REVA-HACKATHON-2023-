@@ -4,7 +4,7 @@ Got 14th rank all over world -TEAM GENNEX
 
 ## Project Overview
 
-Welcome to the repository of Team BLUESCAN, which participated in the Plastic-Free Rivers Hackathon and secured the 20th Global rank. This project aims to address the issue of plastic pollution in rivers using innovative solutions and technology.
+Welcome to the repository of Team GENNEX, which participated in the Plastic-Free Rivers Hackathon and secured the 20th Global rank. This project aims to address the issue of plastic pollution in rivers using innovative solutions and technology.
 
 ## Dataset
 
